@@ -32,3 +32,24 @@ CivicPulse is a Windows Forms desktop application designed to empower citizens b
 - **File Handling**: Local media attachment support via OpenFileDialog
 
 ## 📂 Project Structure
+
+## Getting Started
+
+### Requirements
+- Visual Studio 2019 or later
+- .NET Framework 4.7.2 or higher
+- Windows OS
+
+### Setup Instructions
+1. Clone or download the repository.
+2. Open `CivicPulse.sln` in Visual Studio.
+3. Build the solution (`Ctrl+Shift+B`).
+4. Run the app (`F5`).
+
+
+
+
+
+
+
+
